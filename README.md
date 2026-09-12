@@ -237,4 +237,4 @@ This repository serves as the official landing page for SQL Server 2000 SP4. The
 **Get the most recent version of SQL Server 2000 SP4 today!**
 
 ---
-**Last updated:** 2026-09-12 16:56:28 UTC
+**Last updated:** 2026-09-12 19:08:49 UTC
